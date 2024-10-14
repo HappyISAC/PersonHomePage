@@ -1,7 +1,0 @@
-@article{liu2024federated,
-  title={Federated Learning With Experience-Driven Model Migration in Heterogeneous Edge Networks},
-  author={Liu, Jianchun and Wang, Shilong and Xu, Hongli and Xu, Yang and Liao, Yunming and Huang, Jinyang and Huang, He},
-  journal={IEEE/ACM Transactions on Networking},
-  year={2024},
-  publisher={IEEE}
-}

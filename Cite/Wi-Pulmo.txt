@@ -1,7 +1,0 @@
-@article{zhao2024wi,
-  title={Wi-Pulmo: Commodity WiFi Can Capture Your Pulmonary Function Without Mouth Clinging},
-  author={Zhao, Peng and Huang, Jinyang and Zhang, Xiang and Liu, Zhi and Yan, Huan and Wang, Meng and Zhuang, Guohang and Guo, Yutong and Sun, Xiao and Li, Meng},
-  journal={IEEE Internet of Things Journal},
-  year={2024},
-  publisher={IEEE}
-}

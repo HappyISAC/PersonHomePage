@@ -1,8 +1,0 @@
-@inproceedings{huang2018wianti,
-  title={WiAnti: An anti-interference activity recognition system based on WiFi CSI},
-  author={Huang, Jinyang and Liu, Bin and Jin, Hongxin and Liu, Zhiqiang},
-  booktitle={2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)},
-  pages={58--65},
-  year={2018},
-  organization={IEEE}
-}

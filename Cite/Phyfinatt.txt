@@ -1,7 +1,0 @@
-@article{huang2023phyfinatt,
-  title={Phyfinatt: An undetectable attack framework against phy layer fingerprint-based wifi authentication},
-  author={Huang, Jinyang and Liu, Bin and Miao, Chenglin and Zhang, Xiang and Liu, Jiancun and Su, Lu and Liu, Zhi and Gu, Yu},
-  journal={IEEE Transactions on Mobile Computing},
-  year={2023},
-  publisher={IEEE}
-}

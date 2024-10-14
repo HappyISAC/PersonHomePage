@@ -1,8 +1,0 @@
-@inproceedings{zhang2019wristpress,
-  title={WristPress: Hand gesture classification with two-array wrist-mounted pressure sensors},
-  author={Zhang, Yufei and Liu, Bin and Liu, Zhiqiang and Huang, Jinyang and Sun, Rui},
-  booktitle={2019 IEEE 16th International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
-  pages={1--4},
-  year={2019},
-  organization={IEEE}
-}

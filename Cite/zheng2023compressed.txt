@@ -1,8 +1,0 @@
-@inproceedings{zheng2023compressed,
-  title={Compressed Representation for 3D Human Pose Estimation using WiFi signal},
-  author={Zheng, Qijia and Liu, Bin and Huang, Jinyang},
-  booktitle={2023 4th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+ AI)},
-  pages={251--255},
-  year={2023},
-  organization={IEEE}
-}

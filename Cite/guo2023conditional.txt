@@ -1,8 +1,0 @@
-@inproceedings{guo2023conditional,
-  title={Conditional Convolution Residual Network for Efficient Super-Resolution},
-  author={Guo, Yunsheng and Huang, Jinyang and Zhang, Xiang and Sun, Xiao and Gu, Yu},
-  booktitle={International Conference on Artificial Neural Networks},
-  pages={86--97},
-  year={2023},
-  organization={Springer}
-}
