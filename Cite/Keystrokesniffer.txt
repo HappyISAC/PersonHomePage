@@ -1,0 +1,7 @@
+@article{huang2024keystrokesniffer,
+  title={Keystrokesniffer: An off-the-shelf smartphone can eavesdrop on your privacy from anywhere},
+  author={Huang, Jinyang and Bai, Jia-Xuan and Zhang, Xiang and Liu, Zhi and Feng, Yuanhao and Liu, Jianchun and Sun, Xiao and Dong, Mianxiong and Li, Meng},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2024},
+  publisher={IEEE}
+}

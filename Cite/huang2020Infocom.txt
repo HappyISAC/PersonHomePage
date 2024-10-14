@@ -1,0 +1,8 @@
+@inproceedings{huang2020towards,
+  title={Towards anti-interference WiFi-based activity recognition system using interference-independent phase component},
+  author={Huang, Jinyang and Liu, Bin and Liu, Pengfei and Chen, Chao and Xiao, Ning and Wu, Yu and Zhang, Chi and Yu, Nenghai},
+  booktitle={IEEE INFOCOM 2020-IEEE Conference on Computer Communications},
+  pages={576--585},
+  year={2020},
+  organization={IEEE}
+}

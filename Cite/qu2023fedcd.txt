@@ -1,0 +1,8 @@
+@inproceedings{qu2023fedcd,
+  title={FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning},
+  author={Qu, Pengcheng and Liu, Jianchun and Wang, Zhiyuan and Ma, Qianpiao and Huang, Jinyang},
+  booktitle={2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)},
+  pages={964--971},
+  year={2023},
+  organization={IEEE}
+}

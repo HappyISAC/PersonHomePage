@@ -1,0 +1,8 @@
+@inproceedings{wang2023framework,
+  title={A Framework for Cognitive Load Recognition Based on Machine Learning and Multimodal Physiological Signals by Wearable Sensors},
+  author={Wang, ChenWei and Li, XinYu and Huang, JinYang and Zhao, Peng and Wang, Meng and Zhuang, GuoHang and Sun, Xiao},
+  booktitle={2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML)},
+  pages={299--306},
+  year={2023},
+  organization={IEEE}
+}
