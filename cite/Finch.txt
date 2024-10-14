@@ -1,0 +1,7 @@
+@article{liu2023finch,
+  title={Finch: Enhancing federated learning with hierarchical neural architecture search},
+  author={Liu, Jianchun and Yan, Jiaming and Xu, Hongli and Wang, Zhiyuan and Huang, Jinyang and Xu, Yang},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2023},
+  publisher={IEEE}
+}

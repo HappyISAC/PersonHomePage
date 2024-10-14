@@ -1,0 +1,10 @@
+@article{gu2023attention,
+  title={Attention-based gesture recognition using commodity wifi devices},
+  author={Gu, Yu and Yan, Huan and Zhang, Xiang and Wang, Yantong and Huang, Jinyang and Ji, Yusheng and Ren, Fuji},
+  journal={IEEE Sensors Journal},
+  volume={23},
+  number={9},
+  pages={9685--9696},
+  year={2023},
+  publisher={IEEE}
+}

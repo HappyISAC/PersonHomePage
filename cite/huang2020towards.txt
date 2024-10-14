@@ -1,0 +1,10 @@
+@article{huang2020towards,
+  title={Towards anti-interference human activity recognition based on WiFi subcarrier correlation selection},
+  author={Huang, Jinyang and Liu, Bin and Chen, Chao and Jin, Hongxin and Liu, Zhiqiang and Zhang, Chi and Yu, Nenghai},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={69},
+  number={6},
+  pages={6739--6754},
+  year={2020},
+  publisher={IEEE}
+}
