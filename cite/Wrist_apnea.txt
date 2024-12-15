@@ -1,0 +1,7 @@
+@article{JSJY20241126002,
+author = {  黄锦阳 and     崔丰麒 and     马长秀 and     樊文东 and     李萌 and     李经宇 and     孙晓 and     黄林生 and 刘志},
+title = {基于通用手环的睡眠呼吸暂停检测},
+journal = {计算机应用},
+pages = {1-10},
+issn = {1001-9081},
+}    

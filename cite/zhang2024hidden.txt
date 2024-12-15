@@ -1,0 +1,7 @@
+@inproceedings{zhang2024hidden,
+  title={Hidden WiFi Camera Localization via Signal Propagation Path Analysis},
+  author={Zhang, Xiang and Ma, Zehua and Huang, Jinyang and Yan, Huan and Li, Meng and Liu, Zhi and Liu, Bin},
+  booktitle={Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+  pages={1710--1712},
+  year={2024}
+}

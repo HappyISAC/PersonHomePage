@@ -1,0 +1,7 @@
+@article{wang2024,
+  title={Target-Oriented WiFi Sensing for Respiratory Healthcare: from Indiscriminate Perception to In-Area Sensing},
+  author={Wang, Meng and Huang, Jinyang and Zhang, Xiang and Liu, Zhi and Li, Meng and Zhao, Peng and Yan, Huan and Sun, Xiao and Dong, Mianxiong},
+  journal={IEEE Network},
+  year={2024},
+  publisher={IEEE}
+}
