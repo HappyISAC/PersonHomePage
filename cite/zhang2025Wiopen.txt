@@ -1,0 +1,7 @@
+@article{zhang2025Wiopen,
+  title={WiOpen: A Robust Wi-Fi-based Open-set Gesture Recognition Framework},
+  author={Zhang, Xiang and Huang, Jinyang and Yan, Huan and Zhao, Peng and Zhuang, Guohang and Liu, Zhi and Liu, Bin},
+  journal={IEEE Transactions on Human-Machine Systems},
+  year={2025},
+  publisher={IEEE}
+}
