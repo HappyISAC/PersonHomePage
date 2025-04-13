@@ -1,0 +1,10 @@
+@ARTICLE{10938146,
+  author={Yan, Huan and Zhang, Xiang and Huang, Jinyang and Feng, Yuanhao and Li, Meng and Wang, Anzhi and Ou, Weihua and Wang, Hongbing and Liu, Zhi},
+  journal={IEEE Internet of Things Journal}, 
+  title={Wi-SFDAGR: WiFi-Based Cross-Domain Gesture Recognition via Source-Free Domain Adaptation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Gesture recognition;Feature extraction;Wireless fidelity;Adaptation models;Sensors;Data models;Training;Solid modeling;Noise;Data security;Gesture Recognition;Channel State Information;Source-free Domain Adaptation;Deep Learning},
+  doi={10.1109/JIOT.2025.3554228}}

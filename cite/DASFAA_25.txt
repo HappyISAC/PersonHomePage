@@ -1,0 +1,7 @@
+@inproceedings{Non-IID,
+  title={Tackling Non-IID Graphs via Decoupled Structure and Feature in Federated Graph Learning},
+  author={Wang, Longwen and Liu, Jianchun and Gao, Xianjun and Liu, Zhi and Huang, Jinyang},
+  booktitle={Database Systems for Advanced Applications: 30th International Conference, DASFAA 2025, Singapore, May 26--29, 2025},
+  year={2025},
+  organization={Springer}
+}

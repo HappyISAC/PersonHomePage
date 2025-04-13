@@ -1,0 +1,10 @@
+@ARTICLE{10916982,
+  author={Zhang, Xiang and Lu, Yan and Yan, Huan and Huang, Jinyang and Gu, Yu and Ji, Yusheng and Liu, Zhi and Liu, Bin},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={ReSup: Reliable Label Noise Suppression for Facial Expression Recognition}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Noise;Noise measurement;Training;Reliability;Solid modeling;Computational modeling;Predictive models;Noise robustness;Face recognition;Data models;Affective computing;facial expression;label noise;label noise modeling;label noise suppression},
+  doi={10.1109/TAFFC.2025.3549017}}

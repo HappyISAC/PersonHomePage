@@ -1,0 +1,7 @@
+@inproceedings{2025CAMLOPA,
+  title={CAMLOPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis},
+  author={Zhang, Xiang and Zhang, Jie and Ma, Zehua and Huang, Jinyang and Li, Meng and Yan, Huan and Zhao, Peng and Zhang, Zijian and Liu,Bin and Guo, Qing and Zhang, Tianwei and Yu, NengHai},
+  booktitle={2025 IEEE symposium on security and privacy (SP)},
+  year={2025},
+  organization={IEEE}
+}
