@@ -1,0 +1,7 @@
+@article{liu2025federated,
+  title={Accelerating Decentralized Federated Learning with Probabilistic Communication in Heterogeneous Edge Computing},
+  author={Liu, Jianchun and  Yan, Jiaming and Xu, Hongli and Wang, Lun and Wang, Zhiyuan and Huang, Jinyang and Qiao,  Chunming},
+  journal={IEEE/ACM Transactions on Networking},
+  year={2025},
+  publisher={IEEE}
+}

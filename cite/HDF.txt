@@ -1,0 +1,6 @@
+@article{cui2025learning,
+  title={Learning from heterogeneity: Generalizing dynamic facial expression recognition via distributionally robust optimization},
+  author={Cui, Feng-Qi and Tong, Anyang and Huang, Jinyang and Zhang, Jie and Guo, Dan and Liu, Zhi and Wang, Meng},
+  journal={arXiv preprint arXiv:2507.15765},
+  year={2025}
+}

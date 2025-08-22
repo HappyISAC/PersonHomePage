@@ -1,0 +1,7 @@
+@inproceedings{zhang2025diffloc,
+author={Zhang, Xiang and Zhang, Jie and Yan, Huan and Huang, Jinyang and Ma, Zehua and Liu, Bin and Li, Meng and Chen, Kejiang and Guo, Qing and Zhang, Tianwei and Liu, Zhi},
+booktitle = {The 34th USENIX Security Symposium},
+title = {DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction},
+year = {2025},
+address = {Seattle, WA, USA},
+month =May}

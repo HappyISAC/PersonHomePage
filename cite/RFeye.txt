@@ -1,0 +1,7 @@
+@article{feng2025rf,
+  title={Rf-eye: Commodity rfid can know what you write and who you are wherever you are},
+  author={Feng, Yuanhao and Huang, Jinyang and Zhang, Youwei and Zhang, Xiang and Li, Meng and Zhang, Fusang and Zheng, Tianyue and Li, Anran and Dong, Mianxiong and Liu, Zhi},
+  journal={ACM Transactions on Sensor Networks},
+  year={2025},
+  publisher={ACM New York, NY}
+}
