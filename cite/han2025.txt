@@ -1,0 +1,10 @@
+@ARTICLE{11296883,
+  author={Han, Xueqiang and Huang, Jinyang and Li, Meng and Cai, Chao and Zheng, Tianyue},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Loki: Physical-World Adversarial Attacks on Wireless Indoor Localization via Differentiable Object Placement}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Location awareness;Wireless communication;Communication system security;Wireless sensor networks;Fresnel reflection;Sensors;Security;Threat modeling;OFDM;Jamming;Wireless indoor localization;differentiable ray-tracing;adversarial attack;physical attack},
+  doi={10.1109/TIFS.2025.3642536}}

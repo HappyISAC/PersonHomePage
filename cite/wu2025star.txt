@@ -1,0 +1,6 @@
+@article{wu2025star,
+  title={STAR: A Benchmark for Astronomical Star Fields Super-Resolution},
+  author={Wu, Kuo-Cheng and Zhuang, Guohang and Huang, Jinyang and Zhang, Xiang and Ouyang, Wanli and Lu, Yan},
+  journal={arXiv preprint arXiv:2507.16385},
+  year={2025}
+}

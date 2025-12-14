@@ -1,0 +1,10 @@
+@ARTICLE{11277407,
+  author={Feng, Yuanhao and Dai, Donghui and Huang, Jinyang and Yang, Panlong and Li, Xiang-Yang and Han, Feiyu and Yang, Lei},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Vibrations;Sensors;Radiofrequency identification;Accuracy;Backscatter;Monitoring;Lead zirconate titanate;Impedance;JFETs;Fault detection;Battery-free sensing;RFID backscatter;Vibration Monitoring;Graph Attention Networks;Industrial Fault Diagnosis},
+  doi={10.1109/TMC.2025.3640243}}
