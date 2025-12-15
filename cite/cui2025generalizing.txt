@@ -1,0 +1,6 @@
+@article{cui2025generalizing,
+  title={Generalizing wifi gesture recognition via large-model-aware semantic distillation and alignment},
+  author={Cui, Feng-Qi and Guo, Yu-Tong and Zheng, Tianyue and Huang, Jinyang},
+  journal={arXiv preprint arXiv:2510.13390},
+  year={2025}
+}
