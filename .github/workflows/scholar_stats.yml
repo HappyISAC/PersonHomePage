@@ -1,0 +1,33 @@
+name: Update Google Scholar Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天北京时间上午 8 点自动运行
+  workflow_dispatch:      # 允许手动点击按钮运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install scholarly requests
+
+      - name: Run Update Script
+        run: python update_scholar.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Scholar Bot"
+          git config --global user.email "bot@github.com"
+          git add google-scholar-stats/*.json
+          git commit -m "Auto-update Google Scholar stats" || exit 0
+          git push
