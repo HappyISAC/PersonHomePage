@@ -1,0 +1,8 @@
+@inproceedings{feng2026vibrahealth,
+  author    = {Yuanhao, Feng and Jinyang, Huang and Zhi, Liu},
+  title     = {VibraHealth: Pervasive Health Sensing via Speech-Evoked Multimodal Biosignals},
+  booktitle = {Proceedings of IEEE INFOCOM 2026 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  year      = {2026},
+  address   = {Tokyo, Japan},
+  month     = {May},
+}

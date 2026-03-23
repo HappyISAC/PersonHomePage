@@ -1,0 +1,9 @@
+@inproceedings{chen2025rethinking,
+  title={Rethinking image watermarking for better embedding},
+  author={Chen, Sigui and Zhang, Jie and Huang, Jinyang and Liu, Xin and Zhang, Xiang and He, Jixuan and Guo, Dan and Li, Meng},
+  booktitle={Fourth International Conference on Machine Vision, Automatic Identification, and Detection (MVAID 2025)},
+  volume={13793},
+  pages={434--440},
+  year={2025},
+  organization={SPIE}
+}

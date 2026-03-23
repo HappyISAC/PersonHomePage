@@ -1,0 +1,10 @@
+@ARTICLE{11396939,
+  author={Zhang, Zheng and Guo, Jiabao and Wang, Fei and Huang, Jinyang and Liu, Zhi and Guo, Dan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={TG4MM: Time-Varying Gaussian Splatting for 3D Motion Magnification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Three-dimensional displays;Rendering (computer graphics);Neural radiance field;Dynamics;Videos;Optical flow;Image reconstruction;Shape;Real-time systems;Image color analysis;3D Motion Magnification;Gaussian Splatting},
+  doi={10.1109/TCSVT.2026.3664849}}

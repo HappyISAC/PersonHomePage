@@ -1,0 +1,8 @@
+@inproceedings{liu2025temporal,
+  title={Temporal Features for IoT Devices: Out-of-Distribution Detection without Upper-Layer Dependencies},
+  author={Liu, Jian and Yan, Huan and Huang, Jinyang and Zhang, Xiang},
+  booktitle={GLOBECOM 2025-2025 IEEE Global Communications Conference},
+  pages={302--307},
+  year={2025},
+  organization={IEEE}
+}

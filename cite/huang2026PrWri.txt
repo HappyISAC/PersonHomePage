@@ -1,0 +1,10 @@
+@ARTICLE{11417419,
+  author={Huang, Jinyang and Feng, Yuanhao and Cui, Feng-Qi and Zhang, Xiang and Liu, Zhi and Liu, Xin and Liu, Jianchun and Zhang, Fusang and Li, Meng},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Feature extraction;Authentication;Data mining;Writing;Forgery;Visualization;Trajectory;Accuracy;Smart phones;Optical filters;Handwriting verification;style extraction;content-independent;multi-modal fusion},
+  doi={10.1109/TDSC.2026.3668275}}

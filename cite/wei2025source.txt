@@ -1,0 +1,8 @@
+@inproceedings{wei2025source,
+  title={Source-Free Domain Adaptation via Perceptual Semantic Decoupling for WiFi Gesture Recognition},
+  author={Wei, Yelin and Zhang, Xiang and Liu, Bin and Jia, Songming and Huang, Jinyang and Liu, Zhi and Yan, Huan},
+  booktitle={GLOBECOM 2025-2025 IEEE Global Communications Conference},
+  pages={4089--4094},
+  year={2025},
+  organization={IEEE}
+}

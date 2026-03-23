@@ -1,0 +1,18 @@
+@article{10.1145/3790114,
+author = {Zhang, Xiang and Yan, Huan and Huang, Jinyang and Liu, Bin and Feng, Yuanhao and Liu, Jianchun and Li, Meng and Zhang, Fusang and Liu, Zhi},
+title = {Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition},
+year = {2026},
+issue_date = {March 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {10},
+number = {1},
+url = {https://doi.org/10.1145/3790114},
+doi = {10.1145/3790114},
+abstract = {WiFi-based gesture recognition holds great promise due to its non-intrusive and ubiquitous nature. However, robust generalization across diverse conditions remains a core challenge due to the inherent sensitivity and ambiguity of Channel State Information (CSI) signals, making them unreliable for real-world human-computer interaction (HCI) applications. While domain adversarial learning-based systems have proven effective in other sensing modalities, its performance in WiFi-based gesture recognition remains limited. In this paper, we revisit the foundational assumptions in current adversarial learning-based WiFi gesture recognition systems and identify a key mismatch: conventional methods rely on subjective physical domain labels (e.g., location, orientation), which often fail to reflect true distributional patterns in the data. This misalignment introduces two critical issues, namely classification conflict and manifold distortion, which fundamentally limit generalization performance. To address these challenges, we propose GesFi, a novel WiFi-based gesture recognition system that introduces WiFi latent domain mining to redefine domains directly from the data itself. GesFi first processes raw sensing data collected from WiFi receivers using CSI-ratio denoising, Short-Time Fast Fourier Transform, and visualization techniques to generate standardized input representations. It then employs class-wise adversarial learning to suppress gesture semantic and leverages unsupervised clustering to automatically uncover latent domain factors responsible for distributional shifts. These latent domains are then aligned through adversarial learning to support robust cross-domain generalization. Finally, the system is applied to the target environment for robust gesture inference. We deployed GesFi under both single-pair and multi-pair settings using commodity WiFi transceivers, and evaluated it across multiple public datasets and real-world environments. Compared to state-of-the-art baselines, GesFi achieves up to 78\% and 50\% performance improvements over existing adversarial methods, and consistently outperforms prior generalization approaches across most cross-domain tasks. (Code available at https://github.com/CamLoPA/GesFiCode).},
+journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+month = mar,
+articleno = {25},
+numpages = {27},
+keywords = {WiFi CSI, Gesture Recognition, Cross-Domain, Physical Label, WiFi Sensing}
+}

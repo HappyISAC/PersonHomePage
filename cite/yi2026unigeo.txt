@@ -1,0 +1,6 @@
+@article{yi2026unigeo,
+  title={UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating},
+  author={Yi, Xing and Huang, Jinyang and Cui, Feng-Qi and Tong, Anyang and Wang, Ruimin and Liu, Liu and Guo, Dan},
+  journal={arXiv preprint arXiv:2601.22616},
+  year={2026}
+}

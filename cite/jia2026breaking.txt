@@ -1,0 +1,6 @@
+@article{jia2026breaking,
+  title={Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Layout 3D Pose Estimation},
+  author={Jia, Songming and Lu, Yan and Liu, Bin and Zhang, Xiang and Zhao, Peng and Tang, Xinmeng and Wei, Yelin and Huang, Jinyang and Yan, Huan and Liu, Zhi},
+  journal={arXiv preprint arXiv:2601.12252},
+  year={2026}
+}

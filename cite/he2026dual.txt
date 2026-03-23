@@ -1,0 +1,7 @@
+@inproceedings{he2026dual,
+  title={Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution},
+  author={He, Ji-Xuan and Zhao, Jia-Cheng and Cui, Feng-Qi and Huang, Jinyang and Liu, Yang and Zhao, Sirui and Li, Meng and Liu, Zhi},
+  booktitle={2026 IEEE International Conference on Multimedia and Expo (ICME)},
+  year={2026},
+  organization={IEEE}
+}

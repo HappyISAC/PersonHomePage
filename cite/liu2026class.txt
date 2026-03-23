@@ -1,0 +1,8 @@
+@article{liu2026class,
+  title={Class-imbalanced Graph Contrastive Clustering for Sleep Apnea Prediction in Mental Health},
+  author={Liu, Xin and Wang, Xinke and Huang, Jinyang and Guo, Dan and Wang, Meng},
+  journal={Pattern Recognition},
+  pages={113157},
+  year={2026},
+  publisher={Elsevier}
+}
