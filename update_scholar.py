@@ -4,7 +4,7 @@ import json
 import os
 
 # 1. 设置您的 Google Scholar ID
-SCHOLAR_ID = 'OufvGTkAAAAJ&hl=zh-CN' # 请替换为您主页 URL 中 user= 后面的字符串
+SCHOLAR_ID = 'OufvGTkAAAAJ' # 请替换为您主页 URL 中 user= 后面的字符串
 
 def update_stats():
     # 搜索作者
