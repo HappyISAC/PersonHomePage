@@ -1,0 +1,7 @@
+@article{han2026exploring,
+  author  = {Feiyu Han and Dawei Yan and Shanyue Wang and Jinyang Huang and Yuanhao Feng and Panlong Yang},
+  title   = {Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement},
+  journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  year    = {2026},
+  note    = {UbiComp 2026},
+}

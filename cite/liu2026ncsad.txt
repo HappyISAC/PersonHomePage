@@ -1,0 +1,6 @@
+@inproceedings{liu2026ncsad,
+  author    = {Xin Liu and Xinyu Li and Yutong Guo and Shi Fang and Xinke Wang and Wei Qian and Fusang Zhang and Jinyang Huang},
+  title     = {Non-Contact Sleep Apnea Detection via Subtle Motion Analysis of UWB Radar},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR SVC)},
+  year      = {2026},
+}
