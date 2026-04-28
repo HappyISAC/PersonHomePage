@@ -1,0 +1,8 @@
+@inproceedings{tao2026band,
+  title     = {Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding},
+  author    = {Tao, Siying and Hu, Jingjing and Huang, Jinyang and Cui, Feng-Qi and Liu, Xueliang and Guo, Dan},
+  booktitle = {Proceedings of the Forty-eighth Annual Conference of the Cognitive Science Society (CogSci 2026)},
+  year      = {2026},
+  address   = {Vancouver, Canada},
+  month     = {July},
+}

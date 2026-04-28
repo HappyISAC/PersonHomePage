@@ -1,0 +1,6 @@
+@article{cui2026trustworthy,
+  title   = {Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling},
+  author  = {Cui, Feng-Qi and Tong, Anyang and Huang, Jinyang and Zhang, Jie and Li, Meng and Yan, Xin and Huang, Linsheng and Guo, Dan and Wang, Meng},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  year    = {2026},
+}
