@@ -1,0 +1,7 @@
+@article{cui2026persomoni,
+  title={PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions},
+  author={Cui, Feng-Qi and Huang, Jinyang and Zhao, Sirui and Li, Kun and Liu, Zhi and Li, Meng and Jia, Ziyu and Guo, Dan and Wang, Meng},
+  journal={IEEE Transactions on Affective Computing},
+  year={2026},
+  publisher={IEEE}
+}

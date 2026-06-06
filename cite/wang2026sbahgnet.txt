@@ -1,0 +1,10 @@
+@article{wang2026sbahgnet,
+  title={SBAHGNet: 3D human pose estimation via skeleton-biased attention and high-frequency enhanced graph convolution},
+  author={Wang, Yu and Ai, Jiaqiu and Sun, Xinyu and Zhang, Yong and Huang, Jinyang},
+  journal={Machine Vision and Applications},
+  volume={37},
+  number={4},
+  pages={82},
+  year={2026},
+  publisher={Springer}
+}

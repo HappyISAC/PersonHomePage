@@ -1,0 +1,7 @@
+@article{cui2026robust,
+  title={Robust Low-Rank Sparse Framework for Video-Based Affective Computing},
+  author={Cui, Feng-Qi and Huang, Jinyang and Zhao, Sirui and Li, Xinyu and Yan, Xin and Jia, Ziyu and Zhou, Xiaokang},
+  journal={IEEE Transactions on Consumer Electronics},
+  year={2026},
+  publisher={IEEE}
+}
