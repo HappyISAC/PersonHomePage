@@ -1,0 +1,8 @@
+@inproceedings{zhao2026dynaforcing,
+  author    = {Sirui Zhao and Yubo Huang and Xinchen Yao and Zhengye Zhang and Jinyang Huang and Feng-Qi Cui and Shiwei Wu and Enhong Chen},
+  title     = {DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (ACM MM 2026)},
+  address   = {Rio de Janeiro, Brazil},
+  month     = {November},
+  year      = {2026}
+}

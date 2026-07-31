@@ -1,0 +1,8 @@
+@inproceedings{sui2026mamoe,
+  author    = {Hongkai Sui and Sirui Zhao and Xianglong Shi and Yiming Zhang and Jinyang Huang and Feng-Qi Cui and Tong Xu},
+  title     = {MaMoE: Leveraging Masked Autoencoders and Mixture-of-Experts for Identity-Free Micro-Action Recognition},
+  booktitle = {Proceedings of the 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)},
+  address   = {Bellevue, WA, USA},
+  month     = {October},
+  year      = {2026}
+}

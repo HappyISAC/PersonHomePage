@@ -1,0 +1,13 @@
+@article{wang2026sensing,
+  author    = {Meng Wang and Jinyang Huang and Yuanhao Feng and Feng-Qi Cui and Meng Li and Xiaokang Zhou and Fusang Zhang},
+  title     = {Sensing Without Borders: A Sensing-Centric Handover Scheme for Continuous WiFi Sensing},
+  journal   = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume    = {10},
+  number    = {3},
+  articleno = {160},
+  numpages  = {35},
+  month     = {September},
+  year      = {2026},
+  doi       = {10.1145/3832037},
+  url       = {https://doi.org/10.1145/3832037}
+}

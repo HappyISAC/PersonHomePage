@@ -1,0 +1,7 @@
+@article{li2026hiding,
+  author  = {Xin-Yu Li and Jinyang Huang and Meng Wang and Peng Zhao and Feng-Qi Cui and Yuanhao Feng and Zheng Gong and Feiyu Han and Fusang Zhang},
+  title   = {Hiding Identity, Preserving Respiration: Semantic-Decoupled Privacy Protection for mmWave Radar Sensing},
+  journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  year    = {2026},
+  note    = {UbiComp 2026}
+}

@@ -1,0 +1,6 @@
+@article{li2026ms2fl,
+  author  = {Xinhui Li and Hao Chen and Minchao Wu and Qingwei Song and Fan Li and Jinyang Huang and Feng-Qi Cui and Zhao Lv},
+  title   = {MS2FL: Modality-Shared and Modality-Specific Feature Learning for Multimodal Emotion Recognition},
+  journal = {ACM Transactions on Autonomous and Adaptive Systems},
+  year    = {2026}
+}

@@ -1,0 +1,8 @@
+@article{han2026pin,
+  author  = {Feiyu Han and Zelei Wang and Yuanhao Feng and Jinyang Huang and Meng Li and Panlong Yang and Zhangjie Fu},
+  title   = {Use Your PIN Securely: Acoustic-Based Second-Factor User Authentication with Enhanced Tap Biometrics},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year    = {2026},
+  doi     = {10.1109/TDSC.2026.3710224},
+  url     = {https://doi.org/10.1109/TDSC.2026.3710224}
+}

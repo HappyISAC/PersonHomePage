@@ -1,0 +1,8 @@
+@inproceedings{zhao2026mec2tt,
+  author    = {Sirui Zhao and Yu Bai and Jinyang Huang and Fangyuan Liu and Feng-Qi Cui and Xinqi Chen and Guo Cheng and Tong Xu and Enhong Chen},
+  title     = {MEC2-TT: Multimodal Emotion Consistency Corrector and Trajectory Tracking for Empathetic Dialogue Generation},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (ACM MM 2026)},
+  address   = {Rio de Janeiro, Brazil},
+  month     = {November},
+  year      = {2026}
+}
