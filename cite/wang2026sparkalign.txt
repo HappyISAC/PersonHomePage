@@ -1,0 +1,10 @@
+@inproceedings{wang2026sparkalign,
+  author    = {Boyan Wang and Weijie Feng and Jinyang Huang and Dan Guo and Zhi Liu and Zhuochen Fan and Zhiyong Cheng},
+  title     = {SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment},
+  booktitle = {Proceedings of the 35th International ACM Conference on Information and Knowledge Management},
+  address   = {Rome, Italy},
+  month     = {November},
+  year      = {2026},
+  pages     = {},
+  doi       = {}
+}

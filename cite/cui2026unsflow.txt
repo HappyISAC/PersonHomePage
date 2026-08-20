@@ -1,0 +1,10 @@
+@article{cui2026unsflow,
+  author  = {Feng-Qi Cui and Jie Zhang and Jinyang Huang and Anyang Tong and Ziyu Jia and Zhi Liu and Dan Guo and Meng Wang},
+  title   = {From Uncertainty to Certainty: A Robust Dynamic Facial Expression Recognition Framework via Dynamic Uncertainty Constraint Modeling},
+  journal = {IEEE Transactions on Multimedia},
+  year    = {2026},
+  volume  = {},
+  number  = {},
+  pages   = {},
+  doi     = {}
+}

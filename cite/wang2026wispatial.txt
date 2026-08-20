@@ -1,0 +1,10 @@
+@article{wang2026wispatial,
+  author  = {Meng Wang and Jinyang Huang and Xiang Zhang and Zhi Liu and Meng Li and Peng Zhao and Xinyu Li and Yuanhao Feng and Fusang Zhang},
+  title   = {Commodity WiFi Can Capture Your Respiration Even the Motion Interference Exists},
+  journal = {ACM Transactions on Sensor Networks},
+  year    = {2026},
+  volume  = {},
+  number  = {},
+  pages   = {},
+  doi     = {}
+}

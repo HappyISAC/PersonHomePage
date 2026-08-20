@@ -1,0 +1,10 @@
+@inproceedings{cui2026sain,
+  author    = {Feng-Qi Cui and Jinyang Huang and Jiacheng Zhao and Sirui Zhao and Yi Yang and Dan Guo and Xiaokang Zhou and Zhun Zhong and Fusang Zhang and Jianwei Lu and Meng Li and Bing-Kun Bao},
+  title     = {SAIN: A Hierarchical Dynamics-Aware EEG-fNIRS Framework for Continuous Affect Estimation},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+  address   = {Rio de Janeiro, Brazil},
+  month     = {November},
+  year      = {2026},
+  pages     = {},
+  doi       = {}
+}
