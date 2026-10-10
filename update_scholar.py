@@ -3,7 +3,9 @@ import time
 import random
 import traceback
 from pathlib import Path
-from scholarly import scholarly
+import re
+import requests
+from bs4 import BeautifulSoup
 
 # 这里只保留 Google Scholar 主页里 user= 后面的纯 ID
 SCHOLAR_ID = "OufvGTkAAAAJ"
@@ -11,9 +13,9 @@ SCHOLAR_ID = "OufvGTkAAAAJ"
 OUTPUT_DIR = Path("google-scholar-stats")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-MAX_RETRIES = 3
-RETRY_SLEEP_MIN = 20
-RETRY_SLEEP_MAX = 60
+MAX_RETRIES = 2
+RETRY_SLEEP_MIN = 5
+RETRY_SLEEP_MAX = 10
 
 
 def write_json(path: Path, data: dict):
@@ -32,29 +34,56 @@ def build_badge_json(label: str, message: str):
     }
 
 
+class ScholarAccessError(RuntimeError):
+    """Google explicitly refused access; do not keep retrying."""
+
+
+def parse_scholar_stats(html):
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.select_one("#gsc_rsb_st")
+    if table is None:
+        text = soup.get_text(" ", strip=True).lower()
+        if soup.select_one('form[action*="/sorry"], .g-recaptcha') or any(
+            marker in text for marker in ("unusual traffic", "not a robot", "captcha")
+        ):
+            raise ScholarAccessError("Google Scholar returned a verification page; old data retained.")
+        raise ValueError("Google Scholar statistics table missing; page format or access response changed.")
+    expected = {"citations": "citations", "h-index": "hindex", "i10-index": "i10index"}
+    values = {}
+    for row in table.select("tr"):
+        label = row.select_one(".gsc_rsb_sc1")
+        cells = row.select("td.gsc_rsb_std")
+        if label is None:
+            continue
+        key = expected.get(label.get_text(" ", strip=True).lower())
+        if key is None:
+            continue
+        if key in values or len(cells) != 2:
+            raise ValueError("Unexpected or duplicate Google Scholar metric row.")
+        # First numeric column is All; second is the recent-years total.
+        number = cells[0].get_text(strip=True)
+        if not re.fullmatch(r"(?:[0-9]+|[0-9]{1,3}(?:,[0-9]{3})+)", number):
+            raise ValueError(f"Invalid total for {key}: {number!r}")
+        values[key] = int(number.replace(",", ""))
+    if set(values) != set(expected.values()):
+        raise ValueError("Incomplete Google Scholar metrics; old data retained.")
+    return values["citations"], values["hindex"], values["i10index"]
+
+
 def fetch_scholar_stats():
-    """
-    抓取 Google Scholar 作者信息。
-    成功时返回 (citations, hindex, i10index)
-    失败时抛出异常
-    """
-    author = scholarly.search_author_id(SCHOLAR_ID)
-    if not author:
-        raise ValueError("search_author_id returned empty result.")
-
-    author = scholarly.fill(author, sections=["basics", "indices"])
-
-    citedby = author.get("citedby")
-    hindex = author.get("hindex")
-    i10index = author.get("i10index")
-
-    print("Fetched author keys:", list(author.keys()))
-    print(f"Fetched stats -> citedby: {citedby}, hindex: {hindex}, i10index: {i10index}")
-
-    if citedby is None:
-        raise ValueError("citedby is None, fetched data is invalid.")
-
-    return citedby, hindex if hindex is not None else 0, i10index if i10index is not None else 0
+    print("Requesting author statistics (connect timeout 10s, read timeout 25s)...", flush=True)
+    response = requests.get(
+        "https://scholar.google.com/citations",
+        params={"user": SCHOLAR_ID, "hl": "en"},
+        timeout=(10, 25),
+    )
+    print(f"Google Scholar HTTP status: {response.status_code}", flush=True)
+    if response.status_code in (403, 429) or "/sorry/" in response.url:
+        raise ScholarAccessError(f"Google Scholar denied or limited access (HTTP {response.status_code}); old data retained.")
+    response.raise_for_status()
+    stats = parse_scholar_stats(response.text)
+    print(f"Fetched totals: citations={stats[0]}, hindex={stats[1]}, i10index={stats[2]}", flush=True)
+    return stats
 
 
 def save_stats(citedby: int, hindex: int, i10index: int):
@@ -85,6 +114,10 @@ def main():
             save_stats(citedby, hindex, i10index)
             print("Google Scholar stats updated successfully.")
             return
+
+        except ScholarAccessError as e:
+            print(f"Access blocked: {e}", flush=True)
+            raise
 
         except Exception as e:
             last_error = e
