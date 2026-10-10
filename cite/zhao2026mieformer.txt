@@ -1,0 +1,6 @@
+@article{zhao2026mieformer,
+  author  = {Sirui Zhao and Jun Zhang and Fangyuan Liu and Jinyang Huang and Shukang Yin and Guo Cheng and Biao Zhu and Xiaokang Zhou and Enhong Chen},
+  title   = {MIEFormer: Multi-band Iterative Refinement via Progressive Residual Learning for Low-Light Enhancement},
+  journal = {IEEE Transactions on Consumer Electronics},
+  year    = {2026}
+}

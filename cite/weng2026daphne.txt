@@ -1,0 +1,6 @@
+@article{weng2026daphne,
+  author  = {Yuxuan Weng and Jinyang Huang and Menglan Hu and Tianyue Zheng},
+  title   = {Daphne: Divergence-Aware Federated Learning for Task-Adaptable Health Analytics},
+  journal = {ACM Transactions on Sensor Networks},
+  year    = {2026}
+}

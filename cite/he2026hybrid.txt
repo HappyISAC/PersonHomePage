@@ -1,0 +1,6 @@
+@article{he2026hybrid,
+  author  = {贺蓓 and 黄锦阳 and 刘鑫 and 赵鹏 and 崔丰麒 and 郭宇童 and 王萌 and 黎歆雨 and 赵思蕊},
+  title   = {基于混合深度学习框架的超宽带雷达睡眠呼吸暂停检测方法},
+  journal = {物联网学报},
+  year    = {2026}
+}
