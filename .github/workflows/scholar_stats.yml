@@ -24,11 +24,11 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install requests beautifulsoup4
+          python -m pip install requests
           python -m pip check
 
       - name: Verify Scholar Imports
-        run: python -c "import requests; from bs4 import BeautifulSoup; print('Scholar imports OK')"
+        run: python -c "import requests; print('Scholar imports OK')"
 
       - name: Show Files Before Run
         run: |
@@ -38,6 +38,8 @@ jobs:
 
       - name: Run Update Script
         timeout-minutes: 5
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: python -u update_scholar.py
 
       - name: Show Generated Files
