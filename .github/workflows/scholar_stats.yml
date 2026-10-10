@@ -37,7 +37,8 @@ jobs:
           find . -maxdepth 3 -type f
 
       - name: Run Update Script
-        run: python update_scholar.py
+        timeout-minutes: 5
+        run: python -u update_scholar.py
 
       - name: Show Generated Files
         run: |
