@@ -1,0 +1,7 @@
+@article{yang2026margin,
+  author = {Yang, Yi and Huang, Jinyang and Cui, Feng-Qi and Liu, Binbin and Shi, Lei and Li, Weihua and Bai, Quan and Zhou, Xiaokang and Li, Meng},
+  title = {Margin-Guided Clean-Label Backdoor Attacks with Weak Implantation and Strong Activation},
+  journal = {IEEE Transactions on Dependable and Secure Computing},
+  year = {2026},
+  note = {Accepted on November 18, 2026}
+}
